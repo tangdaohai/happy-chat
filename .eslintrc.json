@@ -1,0 +1,7 @@
+{
+  "extends": ["standard-with-typescript"],
+  "ignorePatterns": ["node_modules", "dist", "test", "typings"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
